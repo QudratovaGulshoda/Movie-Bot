@@ -8,6 +8,7 @@ BOT_TOKEN = env.str("BOT_TOKEN")  # Bot toekn
 ADMINS = env.list("ADMINS")  # adminlar ro'yxati
 # IP = env.str("ip")  # Xosting ip manzili
 CHANNELS = env.list("CHANNELS")
-
+KINOCHILAR = env.list("KINOCHILAR")
+REKLAMA_KANAL = -1001936185830
 
 
